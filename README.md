@@ -2,7 +2,7 @@
 
 一个用于查看服务器端短信记录的 Android 客户端。
 
-本项目不直接读取手机本地短信，而是通过自定义后端接口拉取短信列表，配合[GitHub - zhaoruoxicat/SMS-Forwarder: 一款基于 PHP + MySQL + PWA 的轻量级短信收集、转发与管理系统。 适用于树莓派 4G 模块、安卓短信转发器、或任何可发起 HTTP 请求的设备，将短信统一保存到云端并可在网页端方便查看。 · GitHub](https://github.com/zhaoruoxicat/SMS-Forwarder)使用。应用支持首次配置、手动刷新、分页查看、验证码一键复制，以及基于系统生物识别或锁屏凭据的解锁保护。
+本项目不直接读取手机本地短信，而是通过自定义后端接口拉取短信列表，配合https://github.com/zhaoruoxicat/SMS-Forwarder使用。应用支持首次配置、手动刷新、分页查看、验证码一键复制，以及基于系统生物识别或锁屏凭据的解锁保护。
 
 ## 功能特性
 
