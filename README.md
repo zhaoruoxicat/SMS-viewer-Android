@@ -2,7 +2,7 @@
 
 一个用于查看服务器端短信记录的 Android 客户端。
 
-本项目不直接读取手机本地短信，而是通过自定义后端接口拉取短信列表，配合(https://github.com/zhaoruoxicat/SMS-Forwarder) 使用。
+本项目不直接读取手机本地短信，而是通过自定义后端接口拉取短信列表，配合https://github.com/zhaoruoxicat/SMS-Forwarder 使用。
 应用支持首次配置、手动刷新、分页查看、验证码一键复制，以及基于系统生物识别或锁屏凭据的解锁保护。
 
 ## 功能特性
